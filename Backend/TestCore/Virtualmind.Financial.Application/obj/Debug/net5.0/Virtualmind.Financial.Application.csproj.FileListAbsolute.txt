@@ -1,0 +1,12 @@
+/Users/carlosuscamayta/Projects/TestCore/Virtualmind.Financial.Application/bin/Debug/net5.0/Virtualmind.Financial.Application.deps.json
+/Users/carlosuscamayta/Projects/TestCore/Virtualmind.Financial.Application/bin/Debug/net5.0/Virtualmind.Financial.Application.dll
+/Users/carlosuscamayta/Projects/TestCore/Virtualmind.Financial.Application/bin/Debug/net5.0/ref/Virtualmind.Financial.Application.dll
+/Users/carlosuscamayta/Projects/TestCore/Virtualmind.Financial.Application/bin/Debug/net5.0/Virtualmind.Financial.Application.pdb
+/Users/carlosuscamayta/Projects/TestCore/Virtualmind.Financial.Application/obj/Debug/net5.0/Virtualmind.Financial.Application.csprojAssemblyReference.cache
+/Users/carlosuscamayta/Projects/TestCore/Virtualmind.Financial.Application/obj/Debug/net5.0/Virtualmind.Financial.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlosuscamayta/Projects/TestCore/Virtualmind.Financial.Application/obj/Debug/net5.0/Virtualmind.Financial.Application.AssemblyInfoInputs.cache
+/Users/carlosuscamayta/Projects/TestCore/Virtualmind.Financial.Application/obj/Debug/net5.0/Virtualmind.Financial.Application.AssemblyInfo.cs
+/Users/carlosuscamayta/Projects/TestCore/Virtualmind.Financial.Application/obj/Debug/net5.0/Virtualmind.Financial.Application.csproj.CoreCompileInputs.cache
+/Users/carlosuscamayta/Projects/TestCore/Virtualmind.Financial.Application/obj/Debug/net5.0/Virtualmind.Financial.Application.dll
+/Users/carlosuscamayta/Projects/TestCore/Virtualmind.Financial.Application/obj/Debug/net5.0/ref/Virtualmind.Financial.Application.dll
+/Users/carlosuscamayta/Projects/TestCore/Virtualmind.Financial.Application/obj/Debug/net5.0/Virtualmind.Financial.Application.pdb

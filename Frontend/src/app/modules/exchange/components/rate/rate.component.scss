@@ -1,0 +1,29 @@
+table {
+    width: 100%;
+  }
+  
+  th.mat-sort-header-sorted {
+    color: black;
+  }
+  
+  .center{
+    text-align: center;
+}
+
+.exchange-container{
+    font-size: 15px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border: solid #b9b9b9 1px;
+    margin-bottom: 8px;
+    border-radius: 5px;
+}
+
+.exchange-container span{
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.btn-group{
+  padding-left: 10px;
+}

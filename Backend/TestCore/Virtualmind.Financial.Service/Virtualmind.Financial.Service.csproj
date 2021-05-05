@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="IServices\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Virtualmind.Financial.Entity\Virtualmind.Financial.Domain.csproj" />
+    <ProjectReference Include="..\Virtualmind.Financial.Common\Virtualmind.Financial.Common.csproj" />
+    <ProjectReference Include="..\Virtualmind.Financial.DTO\Virtualmind.Financial.DTO.csproj" />
+    <ProjectReference Include="..\Virtualmind.Financial.DAO\Virtualmind.Financial.Repository.csproj" />
+  </ItemGroup>
+</Project>

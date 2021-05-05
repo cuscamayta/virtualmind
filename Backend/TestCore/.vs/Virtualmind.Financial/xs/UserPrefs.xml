@@ -1,0 +1,58 @@
+﻿<Properties StartupConfiguration="{ED09D898-CCFD-4D26-B80B-86A191C5ADF3}|TestCore">
+  <MonoDevelop.Ide.ItemProperties.Virtualmind.Financial.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Virtualmind.Financial.Service/IExchangeRateBRL.cs">
+    <Files>
+      <File FileName="TestCore/Controllers/ExchangeController.cs" Line="33" Column="17" />
+      <File FileName="Virtualmind.Financial.Common/Enums/CurrencyCode.cs" Line="1" Column="1" />
+      <File FileName="Virtualmind.Financial.Common/Enums/EnumUtility.cs" Line="1" Column="1" />
+      <File FileName="Virtualmind.Financial.Service/ExchangeService.cs" Line="23" Column="53" />
+      <File FileName="TestCore/appsettings.json" Line="14" Column="1" />
+      <File FileName="Virtualmind.Financial.DTO/PurchaseDTO.cs" Line="7" Column="1" />
+      <File FileName="Virtualmind.Financial.DAO/RepositoryBase.cs" Line="33" Column="1" />
+      <File FileName="Virtualmind.Financial.DAO/DataContext/FinancialContext.cs" Line="28" Column="1" />
+      <File FileName="Virtualmind.Financial.Entity/BaseEntity.cs" Line="9" Column="1" />
+      <File FileName="Virtualmind.Financial.Entity/UserPurchase.cs" Line="12" Column="1" />
+      <File FileName="TestCore/Startup.cs" Line="68" Column="27" />
+      <File FileName="TestCore/Program.cs" Line="1" Column="1" />
+      <File FileName="Virtualmind.Financial.IoC/DependencyInjection.cs" Line="10" Column="1" />
+      <File FileName="Virtualmind.Financial.DAO/IRepositories/IPurchaseRepository.cs" Line="1" Column="1" />
+      <File FileName="Virtualmind.Financial.DAO/IRepositories/IRepositoryBase.cs" Line="19" Column="1" />
+      <File FileName="Virtualmind.Financial.DAO/PurchaseRepository.cs" Line="1" Column="1" />
+      <File FileName="Virtualmind.Financial.Entity/Rate.cs" Line="1" Column="1" />
+      <File FileName="TestCore/Middleware/ExceptionHandlerMiddleware.cs" Line="65" Column="1" />
+      <File FileName="TestCore/Exceptions/BadRequestException.cs" Line="9" Column="6" />
+      <File FileName="TestCore/Exceptions/NotFoundException.cs" Line="8" Column="6" />
+      <File FileName="TestCore/Exceptions/UnprocessableRequestException.cs" Line="10" Column="1" />
+      <File FileName="Virtualmind.Financial.DTO/ResponseDTO.cs" Line="22" Column="38" />
+      <File FileName="Virtualmind.Financial.Service/IServices/IExchangeService.cs" Line="1" Column="1" />
+      <File FileName="Virtualmind.Financial.Service/IServices/IRate.cs" Line="12" Column="1" />
+      <File FileName="Virtualmind.Financial.Service/ExchangeRateUSD.cs" Line="18" Column="6" />
+      <File FileName="Virtualmind.Financial.Service/IExchangeRateBRL.cs" Line="6" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Virtualmind.Financial" expanded="True">
+            <Node name="Virtualmind.Financial.Api" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Exceptions" expanded="True" />
+              <Node name="Middleware" expanded="True" />
+            </Node>
+            <Node name="Virtualmind.Financial.DTO" expanded="True" />
+            <Node name="Virtualmind.Financial.Service" expanded="True">
+              <Node name="IExchangeRateBRL.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/carlosuscamayta/Projects/TestCore/Virtualmind.Financial.Service/ExchangeService.cs" relfile="Virtualmind.Financial.Service/ExchangeService.cs" line="41" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

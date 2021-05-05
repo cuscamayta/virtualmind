@@ -1,0 +1,26 @@
+{
+    "validation": {
+        "messages": {       
+            "badRequest": "There is an error, please try again ",
+            "update": "System updating with your changes.",
+            "save": "Successfully was updated",
+            "retrieve": "Successfully was retrieved"
+
+        }        
+    },
+    "globalError": {
+        "tittle": "APPLICATION ERROR",
+        "error": "ERROR"
+    },
+    "navigation": {
+        "home": "Home",
+        "purchase": "Purchase",       
+        "preferences": "Preferences"
+    },
+    "common":{
+        "contactus": "Contact Us",
+        "name":"Name",
+        "gender":"Gender",
+        "code":"Code"
+    }
+}

@@ -1,0 +1,11 @@
+/Users/carlosuscamayta/Projects/TestCore/Virtualmind.Financial.DAO/bin/Debug/net5.0/Virtualmind.Financial.DAO.deps.json
+/Users/carlosuscamayta/Projects/TestCore/Virtualmind.Financial.DAO/bin/Debug/net5.0/Virtualmind.Financial.DAO.dll
+/Users/carlosuscamayta/Projects/TestCore/Virtualmind.Financial.DAO/bin/Debug/net5.0/ref/Virtualmind.Financial.DAO.dll
+/Users/carlosuscamayta/Projects/TestCore/Virtualmind.Financial.DAO/bin/Debug/net5.0/Virtualmind.Financial.DAO.pdb
+/Users/carlosuscamayta/Projects/TestCore/Virtualmind.Financial.DAO/obj/Debug/net5.0/Virtualmind.Financial.DAO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlosuscamayta/Projects/TestCore/Virtualmind.Financial.DAO/obj/Debug/net5.0/Virtualmind.Financial.DAO.AssemblyInfoInputs.cache
+/Users/carlosuscamayta/Projects/TestCore/Virtualmind.Financial.DAO/obj/Debug/net5.0/Virtualmind.Financial.DAO.AssemblyInfo.cs
+/Users/carlosuscamayta/Projects/TestCore/Virtualmind.Financial.DAO/obj/Debug/net5.0/Virtualmind.Financial.DAO.csproj.CoreCompileInputs.cache
+/Users/carlosuscamayta/Projects/TestCore/Virtualmind.Financial.DAO/obj/Debug/net5.0/Virtualmind.Financial.DAO.dll
+/Users/carlosuscamayta/Projects/TestCore/Virtualmind.Financial.DAO/obj/Debug/net5.0/ref/Virtualmind.Financial.DAO.dll
+/Users/carlosuscamayta/Projects/TestCore/Virtualmind.Financial.DAO/obj/Debug/net5.0/Virtualmind.Financial.DAO.pdb

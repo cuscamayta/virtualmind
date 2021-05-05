@@ -1,0 +1,23 @@
+<mat-card class="example-card">
+  <mat-card-header class="header-form">
+  </mat-card-header>
+  <mat-card-content class="purchase-content">
+    <div class="center exchange-container">
+      <span>COTIZACIÓN DÓLAR</span>
+      <span>Purchase : <b>{{exchanges.usd.purchase}}</b></span>
+      <span>Sell <b>{{exchanges.usd.sell}}</b></span>
+      <span>{{exchanges.usd.lastModified}}</span>
+    </div>
+    <div class="center exchange-container">
+      <span>COTIZACIÓN REAL</span>
+      <span>Purchase : <b>{{exchanges.brl.purchase}}</b></span>
+      <span>Sell <b>{{exchanges.brl.sell}}</b></span>
+      <span>{{exchanges.brl.lastModified}}</span>
+    </div>
+
+
+  </mat-card-content>
+  <mat-card-actions class="btn-group">
+    <button mat-raised-button color="primary" (click)="loadCurrencyExchange()">Refresh</button>
+  </mat-card-actions>
+</mat-card>
