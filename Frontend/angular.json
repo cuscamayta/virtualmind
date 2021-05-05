@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/AdmStudentUI",
+            "outputPath": "dist/financialui",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -68,18 +68,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "AdmStudentUI:build"
+            "browserTarget": "financialui:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "AdmStudentUI:build:production"
+              "browserTarget": "financialui:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "AdmStudentUI:build"
+            "browserTarget": "financialui:build"
           }
         },
         "test": {
